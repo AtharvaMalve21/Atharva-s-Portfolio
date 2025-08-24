@@ -21,9 +21,9 @@ const Footer = () => {
           {[
             { name: "About", id: "about" },
             { name: "Skills", id: "skills" },
-            { name: "Experience", id: "experience" },
             { name: "Projects", id: "projects" },
             { name: "Education", id: "education" },
+            { name: "Certifications & Achievements", id: "Certifications & Achievements" },
           ].map((item, index) => (
             <button
               key={index}
@@ -38,11 +38,11 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "https://www.facebook.com/tarun.kaushik.3511041/" },
-            { icon: <FaTwitter />, link: "https://twitter.com/CodingMaster6?s=09" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/tarun-kaushik-553b441a4" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/coding_.master/" },
-            { icon: <FaYoutube />, link: "https://www.youtube.com/codingmasteryt" },
+            { icon: <FaFacebook />, link: "https://www.facebook.com/atharva.malve.31" },
+            { icon: <FaTwitter />, link: "https://x.com/" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/atharva-malve-b6a724288/" },
+            { icon: <FaInstagram />, link: "https://www.instagram.com/__.atharvamalve.__?igsh=MXh4YjFzZXdkOTV1NQ==" },
+            { icon: <FaYoutube />, link: "https://www.youtube.com/@AtharvaMalve-y2r" },
             
           ].map((item, index) => (
             <a
