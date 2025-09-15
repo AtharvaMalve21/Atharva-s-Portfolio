@@ -45,8 +45,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://www.dropbox.com/scl/fi/o7b2bqifurj912375lpgh/I2K221290_AtharvaMalve_Resume.pdf?rlkey=loii0bl2p5txw9v7dk24h12sw&st=d96r5lw5&dl=0"
-            target="_blank"
+            href="https://www.dropbox.com/scl/fi/ykhkcurixeah95fxxeskc/I2K221290_AtharvaMalve_Resume.pdf?rlkey=mkaokwew683em0rctlopqssxo&st=cocmjc0y&dl=0"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
